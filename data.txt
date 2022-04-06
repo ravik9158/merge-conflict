@@ -1,4 +1,4 @@
 Hi, 
-I am xyz, 
-from college xyzit,
+I am abc, 
+from college abcit,
 thanks!
